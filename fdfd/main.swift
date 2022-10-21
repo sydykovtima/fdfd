@@ -12,3 +12,4 @@ func square(square1:int) {
   print(square1 * square1)
 }
 square(square1: 2)
+
